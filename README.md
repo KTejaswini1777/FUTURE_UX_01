@@ -1,4 +1,5 @@
 # Elevate Spaces Website Redesign
+
 ## Project Overview
 Elevate Spaces is a premium interior design studio specializing in residential interiors, commercial spaces, furniture & décor solutions, and renovation services.
 This project focuses on redesigning the website with a strong emphasis on lead generation, user experience, and conversion optimization.
@@ -21,7 +22,10 @@ This project focuses on redesigning the website with a strong emphasis on lead g
 ## Figma Prototype Link:
 https://www.figma.com/proto/GH3pPxgFIm41Sp7n0FOzec/Elevate-Spaces-design?node-id=1-3&p=f&t=cOM2QWq0USYIH9Nt-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A3
 # Files Included
-•	Screenshots- [Home, Services, Contact]
+•	Screenshots
+![Homepage](Home-page.png)
+![Service Page](Services-page.png)
+![Contact Page](Contact-page.png)
 •	Design Rationale Document
 •	Figma Prototype Link
 # Author
