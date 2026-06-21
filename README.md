@@ -5,7 +5,7 @@ This project focuses on redesigning the website with a strong emphasis on lead g
 # Pages Designed
 •	Homepage
 •	Service Detail Page
-•	Contact / Lead Generation Page
+•	Contact Page
 # Key Features
 •	Clear value proposition
 •	Conversion-focused layout
